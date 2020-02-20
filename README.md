@@ -3,8 +3,12 @@
 ### Deployed Link
 https://ksentak.github.io/LB-Coffee/
 
+---
+
 ### App Description
 A small business coffee shop website with a mobile-first design.
+
+---
 
 ### Technologies Used
 * HTML
